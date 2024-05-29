@@ -1,3 +1,4 @@
-# maven-project
+java-hello-world-webapp
+=======================
 
-Simple Maven Project
+A simple java web app
